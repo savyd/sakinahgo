@@ -1,0 +1,86 @@
+/* CSS reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 100%;
+}
+/* metod
+e flex-box */
+/* Agar profil card selalu pada sumbu tengah*/
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* agar lebar body mengikuti layar*/
+  height: 100vh;
+}
+/* Menambahkan bacground image */
+body {
+  background: lightseagreen/*url('http://i.imgur.com/9kh3G8L.jpg')*/ no-repeat center center fixed;
+  background-size: cover;
+  
+}
+.profile-card {
+  background: hsla(0, 0%, 100%, .5);
+  width: 28rem;
+  max-width: calc(100vw - 10px);
+  border-radius: 4px;
+  box-shadow: (0%, 0%, 0%, .8) 10px 10px 80px;
+}
+.head, .conten {
+  text-align: center;
+  width: 90%;
+  margin: auto;
+  /*background: lightgreen;*/
+}
+img {
+  height: 12.5rem;
+  border-radius: 50%;
+  padding: 0.125rem;
+  background: hsla(0, 0%, 100%, .5);
+  transition: all 0,5s ease-in-out;
+  /*filter: grayscale(10%);*/
+}
+img:hover {
+  transform:scale(1.1);
+  /*filter: grayscale(20%)*/
+}
+.profil-img {
+  margin-top: -60px;
+}
+.head, .about {
+  margin-bottom: 10%;
+}
+.conten {
+  padding: 5% 10%;
+  border-top: 0.1875rem solid hsla(0, 0%, 90%, .5);
+}
+ul {
+  list-style-type: none;
+}
+li {
+  display: inline;
+  padding: 0 0.625rem 0 0.625rem;
+}
+/* Mengatur menu footbar*/
+.footbar {
+	background: lightblue;
+	grid-column: 1/-1;
+	height: 2.5rem;
+	text-align: center;
+}
+.footbar { /* fixed position*/
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	left: 0;
+}
+.footbar a {
+	display: inline-block;
+	color: black;
+	width: 20%;
+}
+.footbar a:hover {
+  color: red;
+}

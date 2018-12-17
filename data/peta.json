@@ -1,0 +1,116 @@
+{
+    "places" : [
+        {
+            "lokasi": [-7.290644, 112.796294], 
+            "sponsor" : "Sakinah Supermarket",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Jl. Arif Rahman Hakim No.32, Keputih, Sukolilo, Kota Surabaya, Jawa Timur 60111",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.290233, 112.799261], 
+            "sponsor" : "Sakinah-Mart Mawadah",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Surabaya, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.283975, 112.802019], 
+            "sponsor" : "Sakinah-Mart Sahid",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Surabaya, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.288882, 112.800233], 
+            "sponsor" : "Sakinah-Cell 2",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Surabaya, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.268006, 112.662597], 
+            "sponsor" : "Sakinah-212 Wonerejo",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Surabaya, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.328579, 112.741423], 
+            "sponsor" : "Sakinah-Mart Jemur Andayani",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Surabaya, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.310680, 112.729792], 
+            "sponsor" : "Sakinah-Kocika Unesa",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Surabaya, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.221448, 112.773887], 
+            "sponsor" : "Sakinah-Mart Kedinding",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Surabaya, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.232558, 112.777849], 
+            "sponsor" : "Sakinah-Mart Tambak Deras",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Surabaya, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.338685, 112.780592], 
+            "sponsor" : "Sakinah-Mart Gunung Anyar",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Surabaya, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.336654, 112.775744], 
+            "sponsor" : "Sakinah-Mart Rungkut",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Surabaya, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.297055, 112.806245], 
+            "sponsor" : "Sakinah-DC Keputih",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Surabaya, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.811493, 111.992434], 
+            "sponsor" : "Sakinah-212 kediri",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Kediri, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.146081, 112.615020], 
+            "sponsor" : "Sakinah-212 Gersik",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Gersik, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.113895, 112.407828], 
+            "sponsor" : "Sakinah-Mart Lamongan",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Lamongan, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        },
+        {
+            "lokasi": [-7.945784, 112.621602], 
+            "sponsor" : "Sakinah-Mart Malang",
+            "gambar" : "images/sakinah.jpg",
+            "alamat" : "Alamat : Malang, Jawa Timur.",
+            "telp" : "Telp : (031) 5926020"
+        }
+    ]
+}
