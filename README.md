@@ -1,1 +1,1 @@
-# sakinahGo
+# PWA simple app 
